@@ -7,4 +7,5 @@ void main (char** args) {
     int w = 11;
 	printf (“%d\n”, x);
 // Dev 2
+    int ywy;
 }
